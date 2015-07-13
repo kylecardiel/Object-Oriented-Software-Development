@@ -3,11 +3,17 @@
 This is an elevator controlerl simualtion, which based on the csv file take a few parameters and processes elevator requests.
 
 Goal:  Utilize object oriented design principals and patterns to simulate the logic and functionality of an elevator control system.
+
 The following principals were used in object creation:
+
   •	Abstraction – to ensure objects are minimal in size, but complete in information
+  
   •	Encapsulation – to ensure all data and methods on data are located within a single object
+  
   •	Separation – used in conjunction with interfaces, which hides how an object works vs how to use an object
+  
   •	Composition – Objects are made up of other objects
+  
   •	Polymorphism – executing a behavior that several object have, but not necessarily implement the same way
   •	Interfaces – Define the role or behavior of objects who implement them, used to execute polymorphism
   •	Delegation – used to provide another level of indirection in code for future flexibility
